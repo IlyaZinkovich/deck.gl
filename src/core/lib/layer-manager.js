@@ -24,7 +24,7 @@ import seer from 'seer';
 import Layer from './layer';
 import {drawLayers} from './draw-layers';
 import {pickObject, pickVisibleObjects} from './pick-layers';
-import {LIFECYCLE} from './constants';
+import {LIFECYCLE} from '../lifecycle/constants';
 import View from '../views/view';
 import Viewport from '../viewports/viewport';
 // TODO - remove, just for dummy initialization
