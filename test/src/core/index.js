@@ -18,10 +18,10 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
+import './utils';
 import './viewports';
 import './lifecycle';
 import './views';
 import './lib';
-import './utils';
 import './shaderlib';
 import './experimental';
